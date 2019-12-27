@@ -15,11 +15,14 @@ Third is intr_best[num] //num is the size of the final answer array   row 64
 
 mpi.exe  
 
-Original example , open the powershell and run with commend `mpiexec -n num mpi.exe`  //num is the number of Thread
+Original example , open the powershell and run with commend: /<br>  
+`mpiexec -n num mpi.exe`  //num is the number of Thread
 
-pcb442.tsp
+pcb442.tsp  
+
 data
 
-tsp0.txt 
+tsp0.txt  
+
 save the final answer
 
